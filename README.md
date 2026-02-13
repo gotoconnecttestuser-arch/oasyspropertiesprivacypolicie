@@ -41,7 +41,7 @@ You may opt out of our SMS messages at any time by replying STOP to any message.
 
 Terms and Conditions
 
-Your use of our services is also governed by our Terms and Conditions [insert Terms & Conditions URL]. Please review them for additional information regarding your rights and obligations.
+Your use of our services is also governed by our Terms and Conditions https://github.com/gotoconnecttestuser-arch/oasyspropertiesprivacypolicie. Please review them for additional information regarding your rights and obligations.
 
 Updates to This Policy
 
